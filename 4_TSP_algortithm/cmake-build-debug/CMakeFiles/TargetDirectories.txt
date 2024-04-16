@@ -1,3 +1,0 @@
-I:/_studia/Semestr_3/Informatyka/Cpp/Lab5/cmake-build-debug/CMakeFiles/tsp.dir
-I:/_studia/Semestr_3/Informatyka/Cpp/Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
-I:/_studia/Semestr_3/Informatyka/Cpp/Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
